@@ -1,0 +1,22 @@
+.tasks {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 0 30px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  border-top: 8px solid #34495e;
+}
+
+.addTask {
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.taskList__filterHeader {
+  cursor: pointer;
+}
+
+.taskList__filterHeader:hover {
+  border-bottom: 3px solid #34495e;
+}
